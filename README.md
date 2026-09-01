@@ -1,4 +1,7 @@
-# AI-ML
+
+# Hello! it's Pratham this side
+
+## AI-ML
 
 AI Developer specializing in Deep Neural Networks, Generative AI, and Agentic Solutions. Building the future, one model at a time.
 
