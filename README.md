@@ -1,5 +1,10 @@
 
-# Hello! it's Pratham this side
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0088FF&center=false&vcenter=false&width=530&lines=Hello!+it's+Pratham+this+side+.+.+.;AI-ML+Developer;Building+the+future+one+model+at+a+time." alt="Typing SVG" />
+  </a>
+</p>
+
 
 ## AI-ML
 
