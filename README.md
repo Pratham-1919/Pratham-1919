@@ -3,7 +3,7 @@
 AI Developer specializing in Deep Neural Networks, Generative AI, and Agentic Solutions. Building the future, one model at a time.
 
 - 🌐 **Portfolio:** ([https://yourportfolio.com](https://portfolio-1-flame-nine.vercel.app/))
-- 🕵️‍♂️ **Currently working on:** AI-ML (Neural Networks, Generative AI, & so on), Gen AI & Agentic AI Solutions.
+- 🕵️‍♂️ **Currently working on:** AI-ML (Neural Networks, Deep Learning, & so on), Gen AI & Agentic AI Solutions.
 - 💬 **Ask me about:** Programming, tech, and Artificial Intelligence.
 
 ---
