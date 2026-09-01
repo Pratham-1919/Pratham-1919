@@ -60,4 +60,4 @@ AI Developer specializing in Deep Neural Networks, Generative AI, and Agentic So
 
 ## 🤝 Let's connect:
 
-![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![LINKEDIN](https://www.linkedin.com/in/pratham-langaliya/)
